@@ -1,2 +1,2 @@
 # RGB Guessing Game
-A responsive website that generates a random RGB color and displays a range of colors for users to choose from using HTML/CSS and JavaScript.
+A responsive game that generates a random RGB color and allows user to make a selection given a range of colors using HTML/CSS and JavaScript.
